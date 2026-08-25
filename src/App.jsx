@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { products, projectAssetSeed } from './data/constants'
 import { organizeAssetList } from './utils/asset-utils'
 import { Nav } from './components/Nav'

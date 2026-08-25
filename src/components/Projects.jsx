@@ -1,4 +1,4 @@
-﻿import { useMemo, useRef, useState, useEffect } from 'react'
+import { useMemo, useRef, useState, useEffect } from 'react'
 import { Metric } from './Metric'
 import { AssetToolbar } from './AssetToolbar'
 import { PendingReview } from './PendingReview'

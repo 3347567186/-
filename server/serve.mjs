@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Production server for 针韵智绣
  * Serves built static files + API middleware (AI agent + asset persistence)
  */

@@ -1,4 +1,4 @@
-﻿import { LazyImage } from './LazyImage'
+import { LazyImage } from './LazyImage'
 
 export function GalleryGrid({ assets, selectedIds, onToggleSelect, onLearn, onDeleteSingle, showGallery, onToggleGallery }) {
   return (

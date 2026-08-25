@@ -1,0 +1,23 @@
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Runtime data and logs
+data/uploads/
+logs/
+*.log
+
+# Backup archives and editor metadata
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
